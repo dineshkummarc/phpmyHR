@@ -1,1 +1,2 @@
-# HRSystem-CI
+# phpmyHR
+formerly HRSystem-CI
